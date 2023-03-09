@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  padding: 0;
+  margin: 0;
+}
+
+.navbar{
+  display: flex;
+  align-items: center;
+  height: 10vh;
+  gap: 50px;
+  margin-left: 8%;
+  margin-right: 8%;
+}
+
+.menu-container {
+  display: flex;
+  gap: 30px;
+}
