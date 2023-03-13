@@ -24,7 +24,7 @@
 
 # 📖 Book Store <a name="about-project"></a>
 
-**Book Store** is a small project that made using React, JavaScript, HTML, and CSS. You can add a book name and the author name. You can delete it or update it. 
+**Book Store** is a small project that made using React, Redux, JavaScript, HTML, and CSS. You can add a book name and the author name. You can delete it or update it. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
