@@ -32,10 +32,20 @@
 
 <!-- Features -->
 
+- **React**
+- **Redux**
+- **JavaScript**
+- **HTML**
+- **CSS**
 
 ### Key Features <a name="key-features"></a>
 
-- **Will be add on the future**
+- **This projects follows all Microverse Linters**
+- **This project takes user inputs of Book title and Author**
+- **This project displays the details for Book (title, author, and completion progress)**
+- **This project saves and fetsches Book details from an API**
+- **This project saves the Book details inside the Browser**
+- **This project has syntax with ES6 format.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
