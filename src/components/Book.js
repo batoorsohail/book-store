@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 import { useDispatch } from 'react-redux';
-import { removeBook } from '../redux/books/booksSlice';
+import { removeBook, deleteBook } from '../redux/books/booksSlice';
 
 const Book = ({ title, author, id }) => {
   const dispatch = useDispatch();
@@ -8,6 +8,7 @@ const Book = ({ title, author, id }) => {
   const onRemoveBook = (e) => {
     const { id } = e.target.dataset;
     dispatch(removeBook(id));
+    dispatch(deleteBook(id));
   };
 
   return (
