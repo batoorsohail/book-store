@@ -2,7 +2,6 @@ import React, { useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import Book from '../components/Book';
 import Form from '../components/Form';
-import '../styles/Book.css';
 import { getBooks } from '../redux/books/booksSlice';
 
 const BookPage = () => {
@@ -31,12 +30,12 @@ const BookPage = () => {
   }
 
   return (
-    <div>
-      <ul>
+    <section className="main">
+      <ul className="book-card-container">
         {output}
       </ul>
       <Form />
-    </div>
+    </section>
   );
 };
 export default BookPage;
