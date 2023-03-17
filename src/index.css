@@ -29,13 +29,13 @@ body {
 }
 
 h1 {
-  font-family: "Roboto";
   color: #0290ff;
+  font-weight: bold;
 }
 
 .nav-links {
-  font-family: "Roboto";
   color: #a9a9a9;
+  font-weight: bold;
   font-size: 0.813rem;
 }
 
@@ -210,7 +210,7 @@ h1 {
 }
 
 .add-book-title {
-  color: #888888;
+  color: #888;
   font-size: 1.25rem;
   font-weight: bold;
   margin-bottom: 1.5rem;
