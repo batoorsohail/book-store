@@ -117,8 +117,8 @@ Start the Project `$ npm start` - serve the project in browser
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] *You can add a book*
-- [ ] *You can delete the book*
+- [ ] *You can edit a book*
+- [ ] *You can check your progress*
 - [ ] *You can update your book*
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
