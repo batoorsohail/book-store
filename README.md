@@ -53,7 +53,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [N/A]()
+- [Live Link](https://gregarious-pika-ee31f3.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
